@@ -1,0 +1,27 @@
+.blog-post{
+    width: 80%;
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 40px;
+    border: 1px solid lightgrey;
+    box-shadow:5px 5px 15px dimgray;
+}
+.post-meta{
+    margin-bottom: 30px;
+}
+.post-meta span{
+    margin-right: 20px;
+}
+.related-links{
+    width: 80%;
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 40px;
+    border: 1px solid lightgrey;
+    box-shadow:5px 5px 15px dimgray;
+}  
+.related-links a{
+    display: block;
+    margin-bottom: 10px;
+}   
+          
